@@ -1,3 +1,3 @@
 # chapter1
-chapter1 exersizes
-from Think like a computer scientist
+chapter1 exersises
+from Think Like a computer scientist
