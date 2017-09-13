@@ -1,3 +1,3 @@
 # chapter1
-chapter1 exersises
+chapter1 exercises
 from Think Like a computer scientist
